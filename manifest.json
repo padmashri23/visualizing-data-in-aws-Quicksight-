@@ -1,0 +1,17 @@
+{
+   "fileLocations": [
+    
+       {
+           "URIs": [
+               "s3://padma-aws-proj/Amazon-Bestseller-Dataset.csv" 
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
+//give your bucket name in the padma-aws-proj
